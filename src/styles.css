@@ -214,14 +214,14 @@ a.fa-solid.fa-user:hover {
   }
 /* (C) LEGEND */
 .legend {
-    color: #ffffff;
+    color: #000000;
     margin-left: 25%;
     margin-top: 3%;
     text-align: center;
   }
 
 .titulo_habilidades {
-    color: #ffffff;
+    color: #000000;
     margin-top: 4rem;
     margin-left: 10rem;
     font-size: 200%;
